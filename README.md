@@ -1,4 +1,4 @@
 # tools
 simple tools
 
-1. to analyze sentences of create tables and record in txtfile.
+1. to analyze sentences of creating tables and record in txtfile.
